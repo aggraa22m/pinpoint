@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.claude/
+*.egg-info/
+dist/
+build/
+bin/
+.buildozer/
+saved_locations.json
+*.spec.bak
+.env
+.venv/
+venv/
