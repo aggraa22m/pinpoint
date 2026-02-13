@@ -1,5 +1,4 @@
-# Object Locator
-
+# Pin Point
 A cross-platform mobile application that calculates the GPS coordinates of a distant object based on where you're pointing your phone.
 
 You point your phone at something, enter how far away you think it is, and the app projects the GPS coordinates of that object using your current position + compass heading + forward geodesic math.
