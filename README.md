@@ -1,9 +1,7 @@
 <<<<<<< HEAD
 # PinPoint
 
-=======
-# Pin Point
->>>>>>> fa2ef5cdf3b8534278467a6ef3c037f305064331
+
 A cross-platform mobile application that calculates the GPS coordinates of a distant object based on where you're pointing your phone.
 
 Point your phone at something, enter how far away you think it is, and PinPoint projects the GPS coordinates of that object using your current position, compass heading, and forward geodesic math.
